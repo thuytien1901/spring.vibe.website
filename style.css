@@ -1,0 +1,121 @@
+
+body{
+    font-family: 'Playfair Display';  
+    color:black;
+    text-align: center;
+    line-height: 1.7rem;
+    font-size: 17px;
+    letter-spacing: 0.05rem;
+    background-color:#faf8f0;
+
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    width: 100%;
+}
+.navigation li{
+    display: inline-block;
+    margin: 0rem 1.5rem;
+
+}
+
+a{
+    text-decoration:none;
+    font-weight: 700;
+    cursor: pointer;
+    font-size: 20px;
+    color: #B34747;
+}
+
+a:hover{
+    color:gray;
+}
+
+.box{
+    border: 1px solid #B34747;
+    margin: 30px 300px;
+    border-radius: 1rem;
+    background-color:white;
+
+
+}
+
+#color div {
+    display: inline-block;
+    width: 35%;
+    border: 1px solid #B34747; 
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom: 1rem;
+    line-height: 0.7rem;
+    border-radius: 10px;
+}
+
+#color div:hover{
+    color: grey;}
+
+h1, .heading1 {
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1.25em;
+}
+
+h2, .heading2{
+    font-size: 25px;
+    font-weight: bold;
+    line-height:1.25em;
+    font-weight: 600;
+
+}
+h3{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.25em;
+
+}
+
+#text-style ul{
+    margin: 20px 20px;
+    list-style-type: none; 
+}
+
+#font div{
+    padding-bottom: 20px;
+}
+.melon{
+    background-color:  #FFC3AD;
+}
+.very-pale-orange{
+    background-color:  #FFE0BD;
+}
+.deep-chestnut{
+    background-color:#B34747 ;
+}
+
+.cornsilk{
+    background-color:#FFF9E0 ;
+}
+.cursive{
+    font-family: 'Klee One', cursive;
+    letter-spacing: normal;
+    line-height: 1.2rem;
+}
+
+h1{
+    background-image: url(./456.png);
+    padding: 120px 200px;
+    color:rgb(107, 101, 101);
+    letter-spacing: 0.25em;
+    word-spacing: 0.5em;
+    margin-top:0;
+}
+
+footer{
+    background-color: #FFC3AD;
+    width: 100%;
+    font-size: 11px;
+    padding: 0.25em;
+    font-weight: bold;
+}
