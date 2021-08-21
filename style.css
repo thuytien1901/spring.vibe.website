@@ -105,11 +105,15 @@ h3{
 
 h1{
     background-image: url(./456.png);
-    padding: 120px 200px;
+    background-size: cover;
+    width: 100%;
+    padding-top: 200px;
+    padding-bottom: 200px;
     color:rgb(107, 101, 101);
     letter-spacing: 0.25em;
     word-spacing: 0.5em;
     margin-top:0;
+    text-align: center;
 }
 
 footer{
